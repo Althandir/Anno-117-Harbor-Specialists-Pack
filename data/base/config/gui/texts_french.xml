@@ -5,12 +5,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Gnaeus Geranus, the Cranebird</Text>
+          <Text>Gnaeus Geranus, l'oiseau-grue</Text>
           <LineId>1600000128</LineId> <!-- <GUID>1600000128</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Enjoys everything with a crane. Would love to sail to see more cranes, if he wouldn't be seasick.</Text>
+          <Text>Il apprécie tout ce qui touche aux grues. Il aimerait beaucoup naviguer pour voir davantage de grues, s'il ne souffrait pas du mal de mer.</Text>
           <LineId>1600000129</LineId> 
       </Text>
     </ModOp>
@@ -21,12 +21,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Motivated Shipyard Worker</Text>
+          <Text>Ouvrier motivé dans un chantier naval</Text>
           <LineId>1600000226</LineId> <!-- <GUID>1600000226</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Swings the hammer quicker for your fleet.</Text>
+          <Text>Manipule le marteau plus rapidement pour votre flotte.</Text>
           <LineId>1600000227</LineId> 
       </Text>
     </ModOp>
