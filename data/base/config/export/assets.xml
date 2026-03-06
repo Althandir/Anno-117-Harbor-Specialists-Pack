@@ -32,7 +32,7 @@
 
 <!-- Rare Specialists -->
 <Group>
-    <Include File="items-epic/AllShipyardsSpeeds-R.xml" />
+    <Include File="items-rare/AllShipyardsSpeeds-R.xml" />
 </Group>
 
 <!-- Epic Specialists -->
