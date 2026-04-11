@@ -12,7 +12,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>PlaceholderText &#xD;(Harbor-Pack)</Text>
+                <Text>Gibt ihr bestes die Schiffe zu beladen, braucht aber langsam helfende Hände. &#xD;(Harbor-Pack)</Text>
                 <LineId>1600000711</LineId> 
             </Text>
             </ModOp>
@@ -28,7 +28,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>PlaceholderText &#xD;(Harbor-Pack)</Text>
+                <Text>Durch gezieltes Einsetzen der Arbeiter nach Fähigkeiten können wir Kosten reduzieren. &#xD;(Harbor-Pack)</Text>
                 <LineId>1600000699</LineId> 
             </Text>
             </ModOp>
@@ -44,7 +44,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>PlaceholderText &#xD;(Harbor-Pack)</Text>
+                <Text>Mit ein paar zusätzlichen Händen kann der Kran deutlich sicherer bedient werden. &#xD;(Harbor-Pack)</Text>
                 <LineId>1600000698</LineId> 
             </Text>
             </ModOp>
@@ -63,7 +63,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Erfreut sich über alles, was mit einem Kran zu tun hat. Würde gerne die Welt erkunden, um mehr Kräne zu sehen, wenn er nicht seekrank wäre.</Text>
+                <Text>Würde gerne die Welt erkunden, um Kräne aus anderen Gefinden zu studieren, wenn er nicht seekrank wäre.</Text>
                 <LineId>1600000129</LineId> 
             </Text>
             </ModOp>
@@ -87,7 +87,7 @@
             </Text>
             <!-- Boosted Description -->
             <Text>
-                <Text>PlaceholderText (Less than 3 Piers on Island)</Text>
+                <Text>Genießt die Ruhe in kleinen Häfen. (Weniger als 3 Handelskaie auf der Insel)</Text>
                 <LineId>1600000709</LineId> 
             </Text>
             </ModOp>
@@ -108,7 +108,7 @@
             </Text>            
             <!-- Boosted Description -->
             <Text>
-                <Text>PlaceholderText (Own more than 30 Ships)</Text>
+                <Text>Ein Praetor braucht eine imposante Flotte! (Besitze mehr als 30 Schiffe)</Text>
                 <LineId>1600000703</LineId> 
             </Text>
             </ModOp>
@@ -124,12 +124,12 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>PlaceholderText &#xD;(Harbor-Pack)</Text>
+                <Text>Zimmert dir in Rekordtempo eine Flotte eines Kaisers würdig zusammen. Auf Kosten des Materialienverbauches. &#xD;(Harbor-Pack)</Text>
                 <LineId>1600000705</LineId> 
             </Text>
             <!-- Boosted Description -->
             <Text>
-                <Text>PlaceholderText (3x Siege Workshop on Island)</Text>
+                <Text>Braucht mehrere große Werkstätten zur Konstruktionsplanung. (3x Belagerungswerkstatt auf Insel)</Text>
                 <LineId>1600000706</LineId> 
             </Text>
             </ModOp>
