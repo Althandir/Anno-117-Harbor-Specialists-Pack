@@ -1,34 +1,157 @@
 <ModOps>
 
-  <!-- Specialist RepairCranesPierKontorEnjoyer-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Gnaeus Geranus, der Kranich</Text>
-          <LineId>1600000128</LineId> <!-- <GUID>1600000128</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Erfreut sich über alles, was mit einem Kran zu tun hat. Würde gerne die Welt erkunden, um mehr Kräne zu sehen, wenn er nicht seekrank wäre.</Text>
-          <LineId>1600000129</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+    <!-- Common Specialists -->
+    <Group>
+        <!-- Specialist PierKontor-Speed-C -->
+        <Group>
+            <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>PlaceholderText</Text>
+                <LineId>1600000710</LineId> <!-- <GUID>1600000710</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>PlaceholderText &#xD;(Harbor-Pack)</Text>
+                <LineId>1600000711</LineId> 
+            </Text>
+            </ModOp>
+        </Group>
 
-  <!-- Specialist AllShipyardsSpeeds-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Motivierter Werftarbeiter</Text>
-          <LineId>1600000226</LineId> <!-- <GUID>1600000226</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Schwingt den Hammer schneller für deine Flotte.</Text>
-          <LineId>1600000227</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+        <!-- Specialist PierKontorCrane-Upkeep-C -->
+        <Group>
+            <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>PlaceholderText</Text>
+                <LineId>1600000699</LineId> <!-- <GUID>1600000699</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>PlaceholderText &#xD;(Harbor-Pack)</Text>
+                <LineId>1600000699</LineId> 
+            </Text>
+            </ModOp>
+        </Group>
+
+        <!-- Specialist Repair-Range-C -->
+        <Group>
+            <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>PlaceholderText</Text>
+                <LineId>1600000697</LineId> <!-- <GUID>1600000697</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>PlaceholderText &#xD;(Harbor-Pack)</Text>
+                <LineId>1600000698</LineId> 
+            </Text>
+            </ModOp>
+        </Group>
+    </Group>
+
+    <!-- Epic Specialists -->
+    <Group>
+        <!-- Specialist RepairPierKontor-Mixed-E -->
+        <Group>
+            <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Gnaeus Geranus, der Kranich</Text>
+                <LineId>1600000128</LineId> <!-- <GUID>1600000128</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Erfreut sich über alles, was mit einem Kran zu tun hat. Würde gerne die Welt erkunden, um mehr Kräne zu sehen, wenn er nicht seekrank wäre.</Text>
+                <LineId>1600000129</LineId> 
+            </Text>
+            </ModOp>
+        </Group>
+    </Group>
+
+    <!-- Legendary Specialists -->
+    <Group>
+        <!-- Specialist PierKontorCrane-Upkeep-Speed-L -->
+        <Group>
+            <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>PlaceholderText</Text>
+                <LineId>1600000707</LineId> <!-- <GUID>1600000707</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>PlaceholderText &#xD;(Harbor-Pack)</Text>
+                <LineId>1600000708</LineId> 
+            </Text>
+            <!-- Boosted Description -->
+            <Text>
+                <Text>PlaceholderText (Less than 3 Piers on Island)</Text>
+                <LineId>1600000709</LineId> 
+            </Text>
+            </ModOp>
+        </Group>
+
+        <!-- Specialist Repair-All-L -->
+        <Group>
+            <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>PlaceholderText</Text>
+                <LineId>1600000701</LineId> <!-- <GUID>1600000701</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>PlaceholderText &#xD;(Harbor-Pack)</Text>
+                <LineId>1600000702</LineId> 
+            </Text>            
+            <!-- Boosted Description -->
+            <Text>
+                <Text>PlaceholderText (Own more than 30 Ships)</Text>
+                <LineId>1600000703</LineId> 
+            </Text>
+            </ModOp>
+        </Group>
+
+        <!-- Specialist Shipyard-Speed-NCosts-L -->
+        <Group>
+            <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>PlaceholderText</Text>
+                <LineId>1600000704</LineId> <!-- <GUID>1600000704</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>PlaceholderText &#xD;(Harbor-Pack)</Text>
+                <LineId>1600000705</LineId> 
+            </Text>
+            <!-- Boosted Description -->
+            <Text>
+                <Text>PlaceholderText (3x Siege Workshop on Island)</Text>
+                <LineId>1600000706</LineId> 
+            </Text>
+            </ModOp>
+        </Group>
+    </Group>
+
+    <!-- Rare Specialists -->
+    <Group>
+        <!-- Specialist Shipyard-Speed-R -->
+        <Group>
+            <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Motivierte Werftarbeiterin</Text>
+                <LineId>1600000226</LineId> <!-- <GUID>1600000226</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Schwingt den Hammer schneller für deine Flotte.</Text>
+                <LineId>1600000227</LineId> 
+            </Text>
+            </ModOp>
+        </Group>
+    </Group>
 </ModOps>

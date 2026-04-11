@@ -8,47 +8,49 @@
 #   GUID-Ranges:  
 #   1600000128 - 1600000129 
 #   1600000226 - 1600000227
-#
-#
-#
-#
-#
+#   1600000697 - 1600000698
+#   1600000699 - 1600000700
+#   1600000701 - 1600000703
+#   1600000704 - 1600000706
+#   1600000707 - 1600000709
+#   1600000710 - 1600000711
 #
 ###
 -->
 <ModOps>
 
-<!-- Testing -->
-<Group>
-<!--
-<Include File="testing/pools-forceSpawnTesting.xml"/> 
--->
-</Group>
-
 <!-- Common Specialists -->
 <Group>
-
+    <Include File="items-common/PierKontor-Speed-C.xml" />
+    <Include File="items-common/PierKontorCrane-Upkeep-C.xml" />
+    <Include File="items-common/Repair-Range-C.xml" />
 </Group>
 
 <!-- Rare Specialists -->
 <Group>
-    <Include File="items-rare/AllShipyardsSpeeds-R.xml" />
+    <Include File="items-rare/Shipyard-Speed-R.xml" />
 </Group>
 
 <!-- Epic Specialists -->
 <Group>
-    <Include File="items-epic/RepairCranesPierKontorEnjoyer-E.xml" />  
+    <Include File="items-epic/RepairPierKontor-Mixed-E.xml" />  
 </Group>
 
 <!-- Legendary Specialists -->
 <Group>
-
+    <Include File="items-legendary/PierKontorCrane-Upkeep-Speed-L.xml" />
+    <Include File="items-legendary/Repair-All-L.xml" />
+    <Include File="items-legendary/Shipyard-Speed-NCosts-L.xml" />
 </Group>
 
 <!-- Add to Pools -->
 <Include File="pools/AssetList/AssetListPool.xml" />
-<Include File="pools/RewardPool/RewardPool-AllItems&Specialists.xml" />
+<Include File="pools/RewardPool/AllItems&Specialists.xml" />
 
+<Include File="pools/RewardPool/Seafaring-C.xml" />
+<Include File="pools/RewardPool/Seafaring-R.xml" />
+<Include File="pools/RewardPool/Seafaring-E.xml" />
+<Include File="pools/RewardPool/Seafaring-L.xml" />
 <!-- Add to Trader Pools -->
 <Include File="pools/Traders/pools-common.xml" />
 <Include File="pools/Traders/pools-rare.xml" />
