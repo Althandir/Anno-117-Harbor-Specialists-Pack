@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000699</GUID>
                 <Name>Specialist PierKontorCrane-Upkeep-C</Name>
-                <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                <IconFilename>data/base/graphics/icons/m_PierKontorCrane-Upkeep-C.png</IconFilename>
                 <InfoDescription>1600000700</InfoDescription>
             </Standard>
             <Effect>
@@ -58,7 +58,7 @@
                     <Standard>
                         <GUID>1600000700</GUID>
                         <Name>Specialist PierKontorCrane-Upkeep-C BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                        <IconFilename>data/base/graphics/icons/m_PierKontorCrane-Upkeep-C.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000699</OasisId>

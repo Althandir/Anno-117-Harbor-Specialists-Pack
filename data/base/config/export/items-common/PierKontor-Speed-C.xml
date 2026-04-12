@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000710</GUID>
                 <Name>Specialist PierKontor-Speed-C</Name>
-                <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                <IconFilename>data/base/graphics/icons/r_f_PierKontor-Speed-C.png</IconFilename>
                 <InfoDescription>1600000711</InfoDescription>
             </Standard>
             <Effect>
@@ -55,7 +55,7 @@
                     <Standard>
                         <GUID>1600000711</GUID>
                         <Name>Specialist PierKontor-Speed-C BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                        <IconFilename>data/base/graphics/icons/r_f_PierKontor-Speed-C.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000710</OasisId>

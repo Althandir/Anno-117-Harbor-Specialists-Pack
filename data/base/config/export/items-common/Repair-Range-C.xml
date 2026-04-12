@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000697</GUID>
                 <Name>Specialist Repair-Range-C</Name>
-                <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                <IconFilename>data/base/graphics/icons/m_Repair-Range-C.png</IconFilename>
                 <InfoDescription>1600000698</InfoDescription>
             </Standard>
             <Effect>
@@ -52,7 +52,7 @@
                     <Standard>
                         <GUID>1600000698</GUID>
                         <Name>Specialist Repair-Range-C BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                        <IconFilename>data/base/graphics/icons/m_Repair-Range-C.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000697</OasisId>

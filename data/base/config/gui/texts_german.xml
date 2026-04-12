@@ -7,7 +7,7 @@
             <ModOp Add="/TextExport/Texts">
             <!-- Title -->
             <Text>
-                <Text>PlaceholderText</Text>
+                <Text>Alte Hafenarbeiterin</Text>
                 <LineId>1600000710</LineId> <!-- <GUID>1600000710</GUID> -->
             </Text>
             <!-- Description -->
@@ -23,7 +23,7 @@
             <ModOp Add="/TextExport/Texts">
             <!-- Title -->
             <Text>
-                <Text>PlaceholderText</Text>
+                <Text>Hafenorganisierer</Text>
                 <LineId>1600000699</LineId> <!-- <GUID>1600000699</GUID> -->
             </Text>
             <!-- Description -->
@@ -39,12 +39,12 @@
             <ModOp Add="/TextExport/Texts">
             <!-- Title -->
             <Text>
-                <Text>PlaceholderText</Text>
+                <Text>Kranmachinist</Text>
                 <LineId>1600000697</LineId> <!-- <GUID>1600000697</GUID> -->
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Mit ein paar zusätzlichen Händen kann der Kran deutlich sicherer bedient werden. &#xD;(Harbor-Pack)</Text>
+                <Text>Diese zusätzlichen Hände optimieren den Reparaturkran. &#xD;(Harbor-Pack)</Text>
                 <LineId>1600000698</LineId> 
             </Text>
             </ModOp>
