@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000707</GUID>
                 <Name>Specialist PierKontorCrane-Upkeep-Speed-L</Name>
-                <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                <IconFilename>data/base/graphics/icons/m_PierKontorCrane-Upkeep-Speed-L.png</IconFilename>
                 <InfoDescription>1600000708</InfoDescription>
             </Standard>
             <Effect>
@@ -105,7 +105,7 @@
                     <Standard>
                         <GUID>1600000708</GUID>
                         <Name>Specialist PierKontorCrane-Upkeep-Speed-L DefenseBuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                        <IconFilename>data/base/graphics/icons/m_PierKontorCrane-Upkeep-Speed-L.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000707</OasisId>
@@ -135,7 +135,7 @@
                     <Standard>
                         <GUID>1600000709</GUID>
                         <Name>Specialist PierKontorCrane-Upkeep-Speed-L Boosted DefenseBuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                        <IconFilename>data/base/graphics/icons/m_PierKontorCrane-Upkeep-Speed-L.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000707</OasisId>

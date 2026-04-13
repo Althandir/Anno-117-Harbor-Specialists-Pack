@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000704</GUID>
                 <Name>Specialist Shipyard-Speed-NCosts-L</Name>
-                <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                <IconFilename>data/base/graphics/icons/r_m_Shipyard-Speed-NCosts-L.png</IconFilename>
                 <InfoDescription>1600000705</InfoDescription>
             </Standard>
             <Effect>
@@ -98,7 +98,7 @@
                     <Standard>
                         <GUID>1600000705</GUID>
                         <Name>Specialist Shipyard-Speed-NCosts-L DefenseBuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                        <IconFilename>data/base/graphics/icons/r_m_Shipyard-Speed-NCosts-L.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000704</OasisId>
@@ -133,7 +133,7 @@
                     <Standard>
                         <GUID>1600000706</GUID>
                         <Name>Specialist Shipyard-Speed-NCosts-L Boosted DefenseBuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                        <IconFilename>data/base/graphics/icons/r_m_Shipyard-Speed-NCosts-L.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000704</OasisId>

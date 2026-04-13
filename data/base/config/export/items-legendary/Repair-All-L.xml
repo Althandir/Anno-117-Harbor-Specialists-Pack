@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000701</GUID>
                 <Name>Specialist Repair-All-L</Name>
-                <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                <IconFilename>data/base/graphics/icons/m_Repair-All-L.png</IconFilename>
                 <InfoDescription>1600000702</InfoDescription>
             </Standard>
             <Effect>
@@ -82,7 +82,7 @@
                     <Standard>
                         <GUID>1600000702</GUID>
                         <Name>Specialist Repair-All-L DefenseBuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                        <IconFilename>data/base/graphics/icons/m_Repair-All-L.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000701</OasisId>
@@ -116,7 +116,7 @@
                     <Standard>
                         <GUID>1600000703</GUID>
                         <Name>Specialist Repair-All-L Boosted DefenseBuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                        <IconFilename>data/base/graphics/icons/m_Repair-All-L.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000701</OasisId>

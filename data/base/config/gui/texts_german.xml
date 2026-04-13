@@ -77,17 +77,17 @@
             <ModOp Add="/TextExport/Texts">
             <!-- Title -->
             <Text>
-                <Text>PlaceholderText</Text>
+                <Text>Milo Boduoc, Entkommener Hafenarbeiter aus Syrah</Text>
                 <LineId>1600000707</LineId> <!-- <GUID>1600000707</GUID> -->
             </Text>
             <!-- Description -->
             <Text>
-                <Text>PlaceholderText &#xD;(Harbor-Pack)</Text>
+                <Text>Milo und seine Gruppe schafften es aus den Fängen Caesos zu entkommen. Nun bieten Sie ihre Fähigkeiten in der Hafenarbeit an, im Austausch für ein friedlicheres Leben. &#xD;(Harbor-Pack)</Text>
                 <LineId>1600000708</LineId> 
             </Text>
             <!-- Boosted Description -->
             <Text>
-                <Text>Genießt die Ruhe in kleinen Häfen. (Weniger als 3 Handelskaie auf der Insel)</Text>
+                <Text>Wünscht sich die Ruhe in kleinen Häfen. (Weniger als 3 Handelskaie auf der Insel)</Text>
                 <LineId>1600000709</LineId> 
             </Text>
             </ModOp>
@@ -98,12 +98,12 @@
             <ModOp Add="/TextExport/Texts">
             <!-- Title -->
             <Text>
-                <Text>PlaceholderText</Text>
+                <Text>Pachomius, Naupêgos des Nils</Text>
                 <LineId>1600000701</LineId> <!-- <GUID>1600000701</GUID> -->
             </Text>
             <!-- Description -->
             <Text>
-                <Text>PlaceholderText &#xD;(Harbor-Pack)</Text>
+                <Text>Hat auf den engen Seewegen des Nils seine Erfahrungen sammeln können mit jedweder Art von Schiffsschäden. &#xD;(Harbor-Pack)</Text>
                 <LineId>1600000702</LineId> 
             </Text>            
             <!-- Boosted Description -->
@@ -119,12 +119,12 @@
             <ModOp Add="/TextExport/Texts">
             <!-- Title -->
             <Text>
-                <Text>PlaceholderText</Text>
+                <Text>Lucius Navigius Festinus, Flotter Flottenerbauer</Text>
                 <LineId>1600000704</LineId> <!-- <GUID>1600000704</GUID> -->
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Zimmert dir in Rekordtempo eine Flotte eines Kaisers würdig zusammen. Auf Kosten des Materialienverbauches. &#xD;(Harbor-Pack)</Text>
+                <Text>Lucius scheute keine Kosten um Rom zu einer Seemacht aufsteigen zu lassen. Er und seine Männer bauen dir jedes Schiff im Minutentakt zusammen. &#xD;(Harbor-Pack)</Text>
                 <LineId>1600000705</LineId> 
             </Text>
             <!-- Boosted Description -->
