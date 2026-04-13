@@ -1,0 +1,80 @@
+<ModOps>
+<!-- Item Definition GUID: 1600000226 - 1600000227 | LineID:1600000226 - 1600000227 -->
+    <Group>
+        <ModOp Type="addNextSibling" GUID="106410">
+        <Asset>
+            <Template>Item</Template>
+            <Values>
+            <Standard>
+                <GUID>1600000226</GUID>
+                <Name>Specialist Shipyard-Speed-R</Name>
+                <IconFilename>data/base/graphics/icons/female_AllShipyardSpeed.png</IconFilename>
+                <InfoDescription>1600000227</InfoDescription>
+            </Standard>
+            <Effect>
+                <EffectScope>Radius</EffectScope>
+                <SourceCategory>Item</SourceCategory>
+                <Buffs>
+                    <Item>
+                        <GUID>1600000227</GUID>
+                    </Item>
+                </Buffs>
+                <Targets> <!-- Targets of Buff -->
+                    <Item>
+                        <GUID>32363</GUID>
+                    </Item>
+                </Targets>
+            </Effect>
+            <Item>
+                <Niche>Nautics</Niche> 
+                <TradePrice>17500</TradePrice>
+                <BarkPool>83327</BarkPool> <!-- <GUID>83327</GUID> -->
+                <Rarity>Rare</Rarity> 
+            </Item>
+            <Locked>
+                <DefaultLockedState>0</DefaultLockedState>
+            </Locked>
+            <Text>
+                <OasisId>1600000226</OasisId>
+            </Text>
+            </Values>
+        </Asset>
+        </ModOp>
+    </Group>
+
+    <!-- Buff Definitions-->
+    <Group>
+        <!-- BuildingEffect Definition -->
+        <ModOp Type="addNextSibling" GUID="80193">
+            <Asset>
+                <Template>BuildingBuff</Template>
+                <Values>
+                <Standard>
+                    <GUID>1600000227</GUID>
+                    <Name>Specialist Shipyard-Speed-R BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/female_AllShipyardSpeed.png</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>1600000226</OasisId>
+                </Text>
+                <Buff>
+                    <SourceCategory>Item</SourceCategory>
+                </Buff>
+                <MaintenanceUpgrade>
+                    <MaintenanceFactorUpgrade>
+                        <Value>0</Value>
+                        <Percental>1</Percental>
+                    </MaintenanceFactorUpgrade>
+                </MaintenanceUpgrade>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade>
+                    <ConstructionCostInPercent>15</ConstructionCostInPercent>
+                    <ConstructionSpeedInPercent>30</ConstructionSpeedInPercent>
+                </RecruitmentUpgrade>
+                </Values>
+            </Asset>
+        </ModOp>
+        
+    </Group>
+
+</ModOps>

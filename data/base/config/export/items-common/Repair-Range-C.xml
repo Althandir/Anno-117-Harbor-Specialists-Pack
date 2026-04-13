@@ -1,0 +1,86 @@
+<ModOps>
+<!-- Item Definition GUID:1600000697 - 1600000698 | LineID:1600000697 - 1600000698 -->
+    <Group>
+        <ModOp Type="addNextSibling" GUID="106410">
+        <Asset>
+            <Template>Item</Template>
+            <Values>
+            <Standard>
+                <GUID>1600000697</GUID>
+                <Name>Specialist Repair-Range-C</Name>
+                <IconFilename>data/base/graphics/icons/m_Repair-Range-C.png</IconFilename>
+                <InfoDescription>1600000698</InfoDescription>
+            </Standard>
+            <Effect>
+                <EffectScope>Radius</EffectScope> 
+                <SourceCategory>Item</SourceCategory>
+                <Buffs>
+                    <Item>
+                        <GUID>1600000698</GUID>
+                    </Item>
+                </Buffs>
+                <Targets> <!-- Targets of Buff -->
+                    <Item>
+                        <GUID>41582</GUID>
+                    </Item>
+                </Targets>
+            </Effect>
+            <Item>
+                <Niche>Nautics</Niche> 
+                <TradePrice>5000</TradePrice>
+                <BarkPool>0</BarkPool> <!-- <GUID>0</GUID> -->
+                <Rarity>Common</Rarity> 
+            </Item>
+            <Locked>
+                <DefaultLockedState>0</DefaultLockedState>
+            </Locked>
+            <Text>
+                <OasisId>1600000697</OasisId>
+            </Text>
+            </Values>
+        </Asset>
+        </ModOp>
+    </Group>
+
+    <!-- Buff Definitions-->
+    <Group>
+        <!-- BuildingEffect Definition -->
+        <ModOp Type="addNextSibling" GUID="80193">
+            <Asset>
+                <Template>DefenseBuildingBuff</Template>
+                <Values>
+                    <Standard>
+                        <GUID>1600000698</GUID>
+                        <Name>Specialist Repair-Range-C BuildingBuff</Name>
+                        <IconFilename>data/base/graphics/icons/m_Repair-Range-C.png</IconFilename>
+                    </Standard>
+                    <Text>
+                        <OasisId>1600000697</OasisId>
+                    </Text>
+                    <Buff>
+                        <SourceCategory>Item</SourceCategory>
+                    </Buff>
+                    <MaintenanceUpgrade>
+                        <MaintenanceFactorUpgrade>
+                            <Value>25</Value>
+                            <Percental>1</Percental>
+                        </MaintenanceFactorUpgrade>
+                        <WorkforceMaintenanceFactorUpgrade>
+                            <Value>25</Value>
+                            <Percental>1</Percental>
+                        </WorkforceMaintenanceFactorUpgrade>
+                    </MaintenanceUpgrade>
+                    <RepairCraneUpgrade>
+                        <HealRadiusUpgrade>
+                            <Value>35</Value>
+                            <Percental>1</Percental>
+                        </HealRadiusUpgrade>
+                    </RepairCraneUpgrade>
+
+                </Values>
+            </Asset>
+        </ModOp>
+        
+    </Group>
+
+</ModOps>

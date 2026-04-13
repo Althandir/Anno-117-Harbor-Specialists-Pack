@@ -1,0 +1,85 @@
+<ModOps>
+<!-- Item Definition GUID:1600000699 - 1600000700 | LineID:1600000699 - 1600000700 -->
+    <Group>
+        <ModOp Type="addNextSibling" GUID="106410">
+        <Asset>
+            <Template>Item</Template>
+            <Values>
+            <Standard>
+                <GUID>1600000699</GUID>
+                <Name>Specialist PierKontorCrane-Upkeep-C</Name>
+                <IconFilename>data/base/graphics/icons/m_PierKontorCrane-Upkeep-C.png</IconFilename>
+                <InfoDescription>1600000700</InfoDescription>
+            </Standard>
+            <Effect>
+                <EffectScope>Radius</EffectScope> 
+                <SourceCategory>Item</SourceCategory>
+                <Buffs>
+                    <Item>
+                        <GUID>1600000700</GUID>
+                    </Item>
+                </Buffs>
+                <Targets> <!-- Targets of Buff -->
+                    <Item>
+                        <GUID>37202</GUID>
+                    </Item>
+                    <Item>
+                        <GUID>31666</GUID>
+                    </Item>
+                    <Item>
+                        <GUID>41582</GUID>
+                    </Item>
+                </Targets>
+            </Effect>
+            <Item>
+                <Niche>Nautics</Niche> 
+                <TradePrice>5000</TradePrice>
+                <BarkPool>0</BarkPool> <!-- <GUID>0</GUID> -->
+                <Rarity>Common</Rarity> 
+            </Item>
+            <Locked>
+                <DefaultLockedState>0</DefaultLockedState>
+            </Locked>
+            <Text>
+                <OasisId>1600000699</OasisId>
+            </Text>
+            </Values>
+        </Asset>
+        </ModOp>
+    </Group>
+
+    <!-- Buff Definitions-->
+    <Group>
+        <!-- BuildingEffect Definition -->
+        <ModOp Type="addNextSibling" GUID="80193">
+            <Asset>
+                <Template>DefenseBuildingBuff</Template>
+                <Values>
+                    <Standard>
+                        <GUID>1600000700</GUID>
+                        <Name>Specialist PierKontorCrane-Upkeep-C BuildingBuff</Name>
+                        <IconFilename>data/base/graphics/icons/m_PierKontorCrane-Upkeep-C.png</IconFilename>
+                    </Standard>
+                    <Text>
+                        <OasisId>1600000699</OasisId>
+                    </Text>
+                    <Buff>
+                        <SourceCategory>Item</SourceCategory>
+                    </Buff>
+                    <MaintenanceUpgrade>
+                        <MaintenanceFactorUpgrade>
+                            <Value>-50</Value>
+                            <Percental>1</Percental>
+                        </MaintenanceFactorUpgrade>
+                        <WorkforceMaintenanceFactorUpgrade>
+                            <Value>-25</Value>
+                            <Percental>1</Percental>
+                        </WorkforceMaintenanceFactorUpgrade>
+                    </MaintenanceUpgrade>
+                </Values>
+            </Asset>
+        </ModOp>
+        
+    </Group>
+
+</ModOps>

@@ -1,34 +1,157 @@
 <ModOps>
 
-  <!-- Specialist RepairCranesPierKontorEnjoyer-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Gnaeus Geranus, der Kranich</Text>
-          <LineId>1600000128</LineId> <!-- <GUID>1600000128</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Erfreut sich über alles, was mit einem Kran zu tun hat. Würde gerne die Welt erkunden, um mehr Kräne zu sehen, wenn er nicht seekrank wäre.</Text>
-          <LineId>1600000129</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+    <!-- Common Specialists -->
+    <Group>
+        <!-- Specialist PierKontor-Speed-C -->
+        <Group>
+            <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Alte Hafenarbeiterin</Text>
+                <LineId>1600000710</LineId> <!-- <GUID>1600000710</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Gibt ihr bestes die Schiffe zu beladen, braucht aber langsam helfende Hände. &#xD;(Harbor-Pack)</Text>
+                <LineId>1600000711</LineId> 
+            </Text>
+            </ModOp>
+        </Group>
 
-  <!-- Specialist AllShipyardsSpeeds-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Motivierter Werftarbeiter</Text>
-          <LineId>1600000226</LineId> <!-- <GUID>1600000226</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Schwingt den Hammer schneller für deine Flotte.</Text>
-          <LineId>1600000227</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+        <!-- Specialist PierKontorCrane-Upkeep-C -->
+        <Group>
+            <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Hafenorganisierer</Text>
+                <LineId>1600000699</LineId> <!-- <GUID>1600000699</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Durch gezieltes Einsetzen der Arbeiter nach Fähigkeiten können wir Kosten reduzieren. &#xD;(Harbor-Pack)</Text>
+                <LineId>1600000699</LineId> 
+            </Text>
+            </ModOp>
+        </Group>
+
+        <!-- Specialist Repair-Range-C -->
+        <Group>
+            <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Kranmachinist</Text>
+                <LineId>1600000697</LineId> <!-- <GUID>1600000697</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Diese zusätzlichen Hände optimieren den Reparaturkran. &#xD;(Harbor-Pack)</Text>
+                <LineId>1600000698</LineId> 
+            </Text>
+            </ModOp>
+        </Group>
+    </Group>
+
+    <!-- Epic Specialists -->
+    <Group>
+        <!-- Specialist RepairPierKontor-Mixed-E -->
+        <Group>
+            <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Gnaeus Geranus, der Kranich</Text>
+                <LineId>1600000128</LineId> <!-- <GUID>1600000128</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Würde gerne die Welt erkunden, um Kräne aus anderen Gefinden zu studieren, wenn er nicht seekrank wäre.</Text>
+                <LineId>1600000129</LineId> 
+            </Text>
+            </ModOp>
+        </Group>
+    </Group>
+
+    <!-- Legendary Specialists -->
+    <Group>
+        <!-- Specialist PierKontorCrane-Upkeep-Speed-L -->
+        <Group>
+            <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Milo Boduoc, Entkommener Hafenarbeiter aus Syrah</Text>
+                <LineId>1600000707</LineId> <!-- <GUID>1600000707</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Milo und seine Gruppe schafften es aus den Fängen Caesos zu entkommen. Nun bieten sie ihre Dienste als Hafenarbeiter an, um dafür ein friedlicheres Leben zu führen. &#xD;(Harbor-Pack)</Text>
+                <LineId>1600000708</LineId> 
+            </Text>
+            <!-- Boosted Description -->
+            <Text>
+                <Text>Wünscht sich die Ruhe in kleinen Häfen. (Weniger als 3 Handelskaie auf der Insel)</Text>
+                <LineId>1600000709</LineId> 
+            </Text>
+            </ModOp>
+        </Group>
+
+        <!-- Specialist Repair-All-L -->
+        <Group>
+            <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Pachomius, Naupêgos des Nils</Text>
+                <LineId>1600000701</LineId> <!-- <GUID>1600000701</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Hat auf den engen Seewegen des Nils seine Erfahrungen sammeln können mit jedweder Art von Schiffsschäden. &#xD;(Harbor-Pack)</Text>
+                <LineId>1600000702</LineId> 
+            </Text>            
+            <!-- Boosted Description -->
+            <Text>
+                <Text>Ein Praetor braucht eine imposante Flotte! (Besitze mehr als 30 Schiffe)</Text>
+                <LineId>1600000703</LineId> 
+            </Text>
+            </ModOp>
+        </Group>
+
+        <!-- Specialist Shipyard-Speed-NCosts-L -->
+        <Group>
+            <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Lucius Navigius Festinus, Flotter Flottenerbauer</Text>
+                <LineId>1600000704</LineId> <!-- <GUID>1600000704</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Lucius scheute keine Kosten um Rom zu einer Seemacht aufsteigen zu lassen. Er und seine Männer bauen dir jedes Schiff im Minutentakt zusammen. &#xD;(Harbor-Pack)</Text>
+                <LineId>1600000705</LineId> 
+            </Text>
+            <!-- Boosted Description -->
+            <Text>
+                <Text>Braucht mehrere große Werkstätten zur Konstruktionsplanung. (3x Belagerungswerkstatt auf Insel)</Text>
+                <LineId>1600000706</LineId> 
+            </Text>
+            </ModOp>
+        </Group>
+    </Group>
+
+    <!-- Rare Specialists -->
+    <Group>
+        <!-- Specialist Shipyard-Speed-R -->
+        <Group>
+            <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Motivierte Werftarbeiterin</Text>
+                <LineId>1600000226</LineId> <!-- <GUID>1600000226</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Schwingt den Hammer schneller für deine Flotte.</Text>
+                <LineId>1600000227</LineId> 
+            </Text>
+            </ModOp>
+        </Group>
+    </Group>
 </ModOps>

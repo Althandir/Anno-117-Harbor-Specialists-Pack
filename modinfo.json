@@ -8,7 +8,12 @@
     
   ],
   "Difficulty": "easier",
-  "DLCDependencies": null,
+  "Dependencies": {
+    "Require": [],
+    "Optional": [],
+    "LoadAfter": [],
+    "Deprecate": []
+  },
   "GameSetup": {
     "RequiresNewGame": false,
     "SafeToRemove": true,
@@ -30,30 +35,30 @@
     "Russian": "[EN] Harbor Specialists Pack by Althandir / Altdolphin"
   },
   "Description": {
-    "English": "Adds new different Specialists focused on the Harbor Buildings to Anno 117.",
-    "German": "Fügt neue verschiedene Spezialisten mit Fokus auf Hafengebäude zu Anno 117 hinzu.",
-    "French": "[EN] Adds new different Specialists focused on the Harbor Buildings to Anno 117.",
-    "Italian": "[EN] Adds new different Specialists focused on the Harbor Buildings to Anno 117.",
-    "Polish": "[EN] Adds new different Specialists focused on the Harbor Buildings to Anno 117.",
-    "Spanish": "[EN] Adds new different Specialists focused on the Harbor Buildings to Anno 117.",
-    "Chinese": "[EN] Adds new different Specialists focused on the Harbor Buildings to Anno 117.",
-    "Japanese": "[EN] Adds new different Specialists focused on the Harbor Buildings to Anno 117.",
-    "Korean": "[EN] Adds new different Specialists focused on the Harbor Buildings to Anno 117.",
-    "Taiwanese": "[EN] Adds new different Specialists focused on the Harbor Buildings to Anno 117.",
-    "Russian": "[EN] Adds new different Specialists focused on the Harbor Buildings to Anno 117."
+    "English": "Adds new Specialists focused on the Harbor Buildings to Anno 117.",
+    "German": "Fügt neue Spezialisten mit Fokus auf Hafengebäude zu Anno 117 hinzu.",
+    "French": "[EN] Adds new Specialists focused on the Harbor Buildings to Anno 117.",
+    "Italian": "[EN] Adds new Specialists focused on the Harbor Buildings to Anno 117.",
+    "Polish": "[EN] Adds new Specialists focused on the Harbor Buildings to Anno 117.",
+    "Spanish": "[EN] Adds new Specialists focused on the Harbor Buildings to Anno 117.",
+    "Chinese": "[EN] Adds new Specialists focused on the Harbor Buildings to Anno 117.",
+    "Japanese": "[EN] Adds new Specialists focused on the Harbor Buildings to Anno 117.",
+    "Korean": "[EN] Adds new Specialists focused on the Harbor Buildings to Anno 117.",
+    "Taiwanese": "[EN] Adds new Specialists focused on the Harbor Buildings to Anno 117.",
+    "Russian": "[EN] Adds new Specialists focused on the Harbor Buildings to Anno 117."
   },
   "Category": {
-    "English": "Gameplay",
-    "German": "Gameplay",
-    "French": "Gameplay",
-    "Italian": "Gameplay",
-    "Polish": "Gameplay",
-    "Spanish": "Gameplay",
-    "Chinese": "Gameplay",
-    "Japanese": "Gameplay",
-    "Korean": "Gameplay",
-    "Taiwanese": "Gameplay",
-    "Russian": "Gameplay"
+    "English": "Content",
+    "German": "Content",
+    "French": "Content",
+    "Italian": "Content",
+    "Polish": "Content",
+    "Spanish": "Content",
+    "Chinese": "Content",
+    "Japanese": "Content",
+    "Korean": "Content",
+    "Taiwanese": "Content",
+    "Russian": "Content"
   },
 
   "CreatorName": "Althandir / Altdolphin",

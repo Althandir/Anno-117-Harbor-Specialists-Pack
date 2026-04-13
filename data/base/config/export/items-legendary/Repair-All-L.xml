@@ -1,0 +1,150 @@
+<ModOps>
+<!-- Item Definition GUID:1600000701 - 1600000703  | LineID:1600000701 - 1600000703 -->
+    <Group>
+        <ModOp Type="addNextSibling" GUID="106410">
+        <Asset>
+            <Template>ItemWithBoost</Template>
+            <Values>
+            <Standard>
+                <GUID>1600000701</GUID>
+                <Name>Specialist Repair-All-L</Name>
+                <IconFilename>data/base/graphics/icons/m_Repair-All-L.png</IconFilename>
+                <InfoDescription>1600000702</InfoDescription>
+            </Standard>
+            <Effect>
+                <EffectScope>Radius</EffectScope> 
+                <SourceCategory>Item</SourceCategory>
+                <Buffs>
+                    <Item>
+                        <GUID>1600000702</GUID>
+                    </Item>
+                </Buffs>
+                <Targets> <!-- Targets of Buff -->
+                    <Item>
+                        <GUID>41582</GUID>
+                    </Item>
+                </Targets>
+            </Effect>
+            <Item>
+                <Niche>Nautics</Niche> 
+                <TradePrice>650000</TradePrice>
+                <BarkPool>0</BarkPool> <!-- <GUID>0</GUID> -->
+                <Rarity>Legendary</Rarity> 
+            </Item>
+            <Locked>
+                <DefaultLockedState>0</DefaultLockedState>
+            </Locked>
+            <Text>
+                <OasisId>1600000701</OasisId>
+            </Text>
+
+            <ItemWithBoost>
+                <BoostCondition>
+                <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                <Values>
+                <PreConditionList>
+                    <Condition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition/>
+                            <ConditionPlayerCounter>
+                                <Context>38995</Context>
+                                <CounterAmount>30</CounterAmount>
+                            </ConditionPlayerCounter>
+                            <ConditionLocationProps/>
+                            <ConditionCounterProps/>
+                            <ConditionPropsComparable/>
+                        </Values>
+                    </Condition>
+                </PreConditionList>
+                </Values>
+                </BoostCondition>
+                <BoostBuffs>
+                <Item>
+                    <GUID>1600000703</GUID>
+                </Item>
+                </BoostBuffs>
+                <BoostHint>1600000703</BoostHint>
+            </ItemWithBoost>
+
+            </Values>
+        </Asset>
+        </ModOp>
+    </Group>
+
+    <!-- Buff Definitions-->
+    <Group>
+        <!-- BuildingEffect Definition -->
+        <ModOp Type="addNextSibling" GUID="80193">
+            <Asset>
+                <Template>DefenseBuildingBuff</Template>
+                <Values>
+                    <Standard>
+                        <GUID>1600000702</GUID>
+                        <Name>Specialist Repair-All-L DefenseBuildingBuff</Name>
+                        <IconFilename>data/base/graphics/icons/m_Repair-All-L.png</IconFilename>
+                    </Standard>
+                    <Text>
+                        <OasisId>1600000701</OasisId>
+                    </Text>
+                    <Buff>
+                        <SourceCategory>Item</SourceCategory>
+                    </Buff>
+                    <RepairCraneUpgrade>
+                        <HealRadiusUpgrade>
+                            <Value>50</Value>
+                            <Percental>1</Percental>
+                        </HealRadiusUpgrade>
+                        <HealPerMinuteUpgrade>
+                            <Value>20</Value>
+                            <Percental>1</Percental>
+                        </HealPerMinuteUpgrade>
+                        <HealBuildingsPerMinuteUpgrade>
+                            <Value>20</Value>
+                            <Percental>1</Percental>
+                        </HealBuildingsPerMinuteUpgrade>
+                    </RepairCraneUpgrade>
+                </Values>
+            </Asset>
+        </ModOp>
+
+        <!-- Boosted BuildingEffect Definition -->
+        <ModOp Type="addNextSibling" GUID="80193">
+            <Asset>
+                <Template>DefenseBuildingBuff</Template>
+                <Values>
+                    <Standard>
+                        <GUID>1600000703</GUID>
+                        <Name>Specialist Repair-All-L Boosted DefenseBuildingBuff</Name>
+                        <IconFilename>data/base/graphics/icons/m_Repair-All-L.png</IconFilename>
+                    </Standard>
+                    <Text>
+                        <OasisId>1600000701</OasisId>
+                    </Text>
+                    <Buff>
+                        <SourceCategory>Item</SourceCategory>
+                    </Buff>
+                    <RepairCraneUpgrade>
+                        <HealRadiusUpgrade>
+                            <Value>75</Value>
+                            <Percental>1</Percental>
+                        </HealRadiusUpgrade>
+                        <HealPerMinuteUpgrade>
+                            <Value>35</Value>
+                            <Percental>1</Percental>
+                        </HealPerMinuteUpgrade>
+                        <HealBuildingsPerMinuteUpgrade>
+                            <Value>35</Value>
+                            <Percental>1</Percental>
+                        </HealBuildingsPerMinuteUpgrade>
+                        <MaximumRepairTargetsUpgrade>
+                            <Value>1</Value>
+                            <Percental>0</Percental>
+                        </MaximumRepairTargetsUpgrade>
+                    </RepairCraneUpgrade>
+                </Values>
+            </Asset>
+        </ModOp>
+    </Group>
+
+</ModOps>
