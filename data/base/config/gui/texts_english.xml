@@ -7,12 +7,12 @@
             <ModOp Add="/TextExport/Texts">
             <!-- Title -->
             <Text>
-                <Text>PlaceholderText</Text>
+                <Text>Elderly Dockworker</Text>
                 <LineId>1600000710</LineId> <!-- <GUID>1600000710</GUID> -->
             </Text>
             <!-- Description -->
             <Text>
-                <Text>PlaceholderText &#xD;(Harbor-Pack)</Text>
+                <Text>She's doing her best to load the ships, but she's starting to need some help. &#xD;(Harbor-Pack)</Text>
                 <LineId>1600000711</LineId> 
             </Text>
             </ModOp>
@@ -23,12 +23,12 @@
             <ModOp Add="/TextExport/Texts">
             <!-- Title -->
             <Text>
-                <Text>PlaceholderText</Text>
+                <Text>Port Organizer</Text>
                 <LineId>1600000699</LineId> <!-- <GUID>1600000699</GUID> -->
             </Text>
             <!-- Description -->
             <Text>
-                <Text>PlaceholderText &#xD;(Harbor-Pack)</Text>
+                <Text>By assigning workers to tasks based on their skills, we can reduce costs. &#xD;(Harbor-Pack)</Text>
                 <LineId>1600000699</LineId> 
             </Text>
             </ModOp>
@@ -39,12 +39,12 @@
             <ModOp Add="/TextExport/Texts">
             <!-- Title -->
             <Text>
-                <Text>PlaceholderText</Text>
+                <Text>Crane Operator</Text>
                 <LineId>1600000697</LineId> <!-- <GUID>1600000697</GUID> -->
             </Text>
             <!-- Description -->
             <Text>
-                <Text>PlaceholderText &#xD;(Harbor-Pack)</Text>
+                <Text>These additional helping hands make the repair crane more efficient. &#xD;(Harbor-Pack)</Text>
                 <LineId>1600000698</LineId> 
             </Text>
             </ModOp>
@@ -77,17 +77,17 @@
             <ModOp Add="/TextExport/Texts">
             <!-- Title -->
             <Text>
-                <Text>PlaceholderText</Text>
+                <Text>Milo Boduoc, Escaped Dockworker from Syrah</Text>
                 <LineId>1600000707</LineId> <!-- <GUID>1600000707</GUID> -->
             </Text>
             <!-- Description -->
             <Text>
-                <Text>PlaceholderText &#xD;(Harbor-Pack)</Text>
+                <Text>Milo and his group managed to escape from Caeso's clutches. Now they are offering their services as dockworkers in order to make a more peaceful life for themselves. &#xD;(Harbor-Pack)</Text>
                 <LineId>1600000708</LineId> 
             </Text>
             <!-- Boosted Description -->
             <Text>
-                <Text>PlaceholderText (Less than 3 Trading Piers on Island)</Text>
+                <Text>Longs for the peace and quiet of small harbors. (Less than 3 Trading Piers on Island)</Text>
                 <LineId>1600000709</LineId> 
             </Text>
             </ModOp>
@@ -98,17 +98,17 @@
             <ModOp Add="/TextExport/Texts">
             <!-- Title -->
             <Text>
-                <Text>PlaceholderText</Text>
+                <Text>Pachomius, Naupêgos of the Nile</Text>
                 <LineId>1600000701</LineId> <!-- <GUID>1600000701</GUID> -->
             </Text>
             <!-- Description -->
             <Text>
-                <Text>PlaceholderText &#xD;(Harbor-Pack)</Text>
+                <Text>Has gained experience dealing with all kinds of ship damage on the narrow waterways of the Nile. &#xD;(Harbor-Pack)</Text>
                 <LineId>1600000702</LineId> 
             </Text>            
             <!-- Boosted Description -->
             <Text>
-                <Text>PlaceholderText (Own more than 30 Ships)</Text>
+                <Text>A Praetor needs an impressive fleet! (Own more than 30 Ships)</Text>
                 <LineId>1600000703</LineId> 
             </Text>
             </ModOp>
@@ -119,17 +119,17 @@
             <ModOp Add="/TextExport/Texts">
             <!-- Title -->
             <Text>
-                <Text>PlaceholderText</Text>
+                <Text>Lucius Navigius Festinus, the Swift Shipbuilder</Text>
                 <LineId>1600000704</LineId> <!-- <GUID>1600000704</GUID> -->
             </Text>
             <!-- Description -->
             <Text>
-                <Text>PlaceholderText &#xD;(Harbor-Pack)</Text>
+                <Text>Lucius spared no expense in turning Rome into a naval power. He and his men are building ships for you one after another. &#xD;(Harbor-Pack)</Text>
                 <LineId>1600000705</LineId> 
             </Text>
             <!-- Boosted Description -->
             <Text>
-                <Text>PlaceholderText (3x Siege Workshop on Island)</Text>
+                <Text>Requires several large workshops for design planning. (3x Siege Workshop on Island)</Text>
                 <LineId>1600000706</LineId> 
             </Text>
             </ModOp>
