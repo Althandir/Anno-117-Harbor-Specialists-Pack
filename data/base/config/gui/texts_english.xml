@@ -119,7 +119,7 @@
             <ModOp Add="/TextExport/Texts">
             <!-- Title -->
             <Text>
-                <Text>Lucius Navigius Festinus, the Swift Shipbuilder</Text>
+                <Text>Lucius Navigius Festinus, Swift Shipbuilder</Text>
                 <LineId>1600000704</LineId> <!-- <GUID>1600000704</GUID> -->
             </Text>
             <!-- Description -->
