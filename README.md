@@ -1,5 +1,5 @@
-# Althandir-Altdolphin
-
+# Harbor Specialist Pack - Mod
+This mod adds Specialist focused on the Harbor into Anno 117. This Mod is part as a submod of "Extended Specialists Mod".
 ***
 
 ### Common Specialists
