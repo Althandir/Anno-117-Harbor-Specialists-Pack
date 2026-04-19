@@ -37,7 +37,7 @@
             <Item>
                 <Niche>Nautics</Niche> 
                 <TradePrice>650000</TradePrice>
-                <BarkPool>0</BarkPool> <!-- <GUID>0</GUID> -->
+                <BarkPool>80239</BarkPool> <!-- <GUID>80239</GUID> -->
                 <Rarity>Legendary</Rarity> 
             </Item>
             <Locked>
