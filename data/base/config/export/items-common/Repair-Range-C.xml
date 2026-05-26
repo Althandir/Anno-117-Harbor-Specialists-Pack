@@ -62,17 +62,17 @@
                     </Buff>
                     <MaintenanceUpgrade>
                         <MaintenanceFactorUpgrade>
-                            <Value>25</Value>
+                            <Value>0</Value>
                             <Percental>1</Percental>
                         </MaintenanceFactorUpgrade>
                         <WorkforceMaintenanceFactorUpgrade>
-                            <Value>25</Value>
+                            <Value>0</Value>
                             <Percental>1</Percental>
                         </WorkforceMaintenanceFactorUpgrade>
                     </MaintenanceUpgrade>
                     <RepairCraneUpgrade>
                         <HealRadiusUpgrade>
-                            <Value>25</Value>
+                            <Value>20</Value>
                             <Percental>1</Percental>
                         </HealRadiusUpgrade>
                     </RepairCraneUpgrade>
