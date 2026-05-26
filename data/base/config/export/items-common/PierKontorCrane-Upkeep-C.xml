@@ -71,11 +71,11 @@
                     </Buff>
                     <MaintenanceUpgrade>
                         <MaintenanceFactorUpgrade>
-                            <Value>-50</Value>
+                            <Value>-25</Value>
                             <Percental>1</Percental>
                         </MaintenanceFactorUpgrade>
                         <WorkforceMaintenanceFactorUpgrade>
-                            <Value>-25</Value>
+                            <Value>-50</Value>
                             <Percental>1</Percental>
                         </WorkforceMaintenanceFactorUpgrade>
                     </MaintenanceUpgrade>

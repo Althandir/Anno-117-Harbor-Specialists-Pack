@@ -65,17 +65,17 @@
                     </Buff>
                     <MaintenanceUpgrade>
                         <MaintenanceFactorUpgrade>
-                            <Value>10</Value>
+                            <Value>0</Value>
                             <Percental>1</Percental>
                         </MaintenanceFactorUpgrade>
                         <WorkforceMaintenanceFactorUpgrade>
-                            <Value>10</Value>
+                            <Value>0</Value>
                             <Percental>1</Percental>
                         </WorkforceMaintenanceFactorUpgrade>
                     </MaintenanceUpgrade>
                     <PierUpgrade>
                         <PierSpeedUpgrade>
-                            <Value>20</Value>
+                            <Value>25</Value>
                             <Percental>1</Percental>
                         </PierSpeedUpgrade>
                     </PierUpgrade>
