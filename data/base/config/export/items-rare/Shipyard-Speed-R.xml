@@ -60,13 +60,6 @@
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
-                <MaintenanceUpgrade>
-                    <MaintenanceFactorUpgrade>
-                        <Value>0</Value>
-                        <Percental>1</Percental>
-                    </MaintenanceFactorUpgrade>
-                </MaintenanceUpgrade>
-                <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade>
                     <ConstructionCostInPercent>15</ConstructionCostInPercent>
                     <ConstructionSpeedInPercent>30</ConstructionSpeedInPercent>

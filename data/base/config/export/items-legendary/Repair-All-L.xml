@@ -24,6 +24,7 @@
                         <GUID>41582</GUID>
                     </Item>
                 </Targets>
+                <HideInGovernorsBar>1</HideInGovernorsBar>
             </Effect>
             <Item>
                 <Niche>Nautics</Niche> 
@@ -126,15 +127,15 @@
                     </Buff>
                     <RepairCraneUpgrade>
                         <HealRadiusUpgrade>
-                            <Value>50</Value>
+                            <Value>40</Value>
                             <Percental>1</Percental>
                         </HealRadiusUpgrade>
                         <HealPerMinuteUpgrade>
-                            <Value>25</Value>
+                            <Value>20</Value>
                             <Percental>1</Percental>
                         </HealPerMinuteUpgrade>
                         <HealBuildingsPerMinuteUpgrade>
-                            <Value>25</Value>
+                            <Value>20</Value>
                             <Percental>1</Percental>
                         </HealBuildingsPerMinuteUpgrade>
                         <MaximumRepairTargetsUpgrade>

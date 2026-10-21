@@ -24,7 +24,7 @@ This mod adds Specialists focused on the Harbor into Anno 117. This Mod is part 
 
 | Image Preview | GUID | Internal Name | Itemname | Description | Targets | Base Effects |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![data/base/graphics/icons/male_CraneEnjoyer.png](data/base/graphics/icons/male_CraneEnjoyer.png) | 1600000128 | Specialist RepairPierKontor-Mixed-E | Gnaeus Geranus, the Cranebird | Enjoys everything with a crane. Would love to sail to see more cranes, if he wouldn't be seasick. | Repair Crane, Trading Post, Pier | • +35% Heal Radius<br>• +35% Pier Speed |
+| ![data/base/graphics/icons/male_CraneEnjoyer.png](data/base/graphics/icons/male_CraneEnjoyer.png) | 1600000128 | Specialist RepairPierKontor-Mixed-R | Gnaeus Geranus, the Cranebird | Enjoys everything with a crane. Would love to sail to see more cranes, if he wouldn't be seasick. | Repair Crane, Trading Post, Pier | • +35% Heal Radius<br>• +35% Pier Speed |
 
 ***
 

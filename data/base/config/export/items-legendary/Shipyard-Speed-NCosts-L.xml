@@ -24,6 +24,7 @@
                         <GUID>32363</GUID>
                     </Item>
                 </Targets>
+                <HideInGovernorsBar>1</HideInGovernorsBar>
             </Effect>
             <Item>
                 <Niche>Nautics</Niche> 

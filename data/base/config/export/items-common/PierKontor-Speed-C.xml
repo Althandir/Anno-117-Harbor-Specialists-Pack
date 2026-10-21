@@ -63,23 +63,12 @@
                     <Buff>
                         <SourceCategory>Item</SourceCategory>
                     </Buff>
-                    <MaintenanceUpgrade>
-                        <MaintenanceFactorUpgrade>
-                            <Value>0</Value>
-                            <Percental>1</Percental>
-                        </MaintenanceFactorUpgrade>
-                        <WorkforceMaintenanceFactorUpgrade>
-                            <Value>0</Value>
-                            <Percental>1</Percental>
-                        </WorkforceMaintenanceFactorUpgrade>
-                    </MaintenanceUpgrade>
                     <PierUpgrade>
                         <PierSpeedUpgrade>
-                            <Value>25</Value>
+                            <Value>40</Value>
                             <Percental>1</Percental>
                         </PierSpeedUpgrade>
                     </PierUpgrade>
-
                 </Values>
             </Asset>
         </ModOp>

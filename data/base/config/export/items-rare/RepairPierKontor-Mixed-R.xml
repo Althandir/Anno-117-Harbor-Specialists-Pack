@@ -7,7 +7,7 @@
             <Values>
             <Standard>
                 <GUID>1600000128</GUID>
-                <Name>Specialist RepairPierKontor-Mixed-E</Name>
+                <Name>Specialist RepairPierKontor-Mixed-R</Name>
                 <IconFilename>data/base/graphics/icons/male_CraneEnjoyer.png</IconFilename>
                 <InfoDescription>1600000129</InfoDescription>
             </Standard>
@@ -33,9 +33,9 @@
             </Effect>
             <Item>
                 <Niche>Nautics</Niche> 
-                <TradePrice><ModValue Insert="$TradePrice_Epic"/></TradePrice>
+                <TradePrice><ModValue Insert="$TradePrice_Rare"/></TradePrice>
                 <BarkPool>83294</BarkPool> <!-- <GUID>83294</GUID> -->
-                <Rarity>Epic</Rarity> 
+                <Rarity>Rare</Rarity> 
             </Item>
             <Locked>
                 <DefaultLockedState>0</DefaultLockedState>
@@ -57,43 +57,24 @@
                 <Values>
                     <Standard>
                         <GUID>1600000129</GUID>
-                        <Name>Specialist RepairPierKontor-Mixed-E BuildingBuff</Name>
+                        <Name>Specialist RepairPierKontor-Mixed-R BuildingBuff</Name>
                         <IconFilename>data/base/graphics/icons/male_CraneEnjoyer.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000128</OasisId>
                     </Text>
-                    <HealthUpgrade>
-                        <BaseHealthUpgrade>
-                            <Value>0</Value>
-                            <Percental>1</Percental>
-                        </BaseHealthUpgrade>
-                    </HealthUpgrade>
-                    <BuildingUpgrade/>
                     <Buff>
                         <SourceCategory>Item</SourceCategory>
                     </Buff>
-                    <MaintenanceUpgrade>
-                        <MaintenanceFactorUpgrade>
-                            <Value>0</Value>
-                            <Percental>1</Percental>
-                        </MaintenanceFactorUpgrade>
-                        <WorkforceMaintenanceFactorUpgrade>
-                            <Value>0</Value>
-                            <Percental>1</Percental>
-                        </WorkforceMaintenanceFactorUpgrade>
-                    </MaintenanceUpgrade>
-                    <IncidentInfectableUpgrade/>
-                    <RecruitmentUpgrade/>
                     <RepairCraneUpgrade>
                         <HealRadiusUpgrade>
-                            <Value>35</Value>
+                            <Value>25</Value>
                             <Percental>1</Percental>
                         </HealRadiusUpgrade>
                     </RepairCraneUpgrade>
                     <PierUpgrade>
                         <PierSpeedUpgrade>
-                            <Value>35</Value>
+                            <Value>100</Value>
                             <Percental>1</Percental>
                         </PierSpeedUpgrade>
                     </PierUpgrade>

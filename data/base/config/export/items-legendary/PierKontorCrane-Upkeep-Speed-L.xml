@@ -33,6 +33,7 @@
                         <GUID>38552</GUID>
                     </Item>
                 </Targets>
+                <HideInGovernorsBar>1</HideInGovernorsBar>
             </Effect>
             <Item>
                 <Niche>Nautics</Niche> 
@@ -118,14 +119,20 @@
                     </Buff>
                     <MaintenanceUpgrade>
                         <MaintenanceFactorUpgrade>
-                            <Value>-75</Value>
+                            <Value>-50</Value>
                             <Percental>1</Percental>
                         </MaintenanceFactorUpgrade>
                         <WorkforceMaintenanceFactorUpgrade>
-                            <Value>-75</Value>
+                            <Value>-50</Value>
                             <Percental>1</Percental>
                         </WorkforceMaintenanceFactorUpgrade>
                     </MaintenanceUpgrade>
+                    <PierUpgrade>
+                        <PierSpeedUpgrade>
+                            <Value>50</Value>
+                            <Percental>1</Percental>
+                        </PierSpeedUpgrade>
+                    </PierUpgrade>
                 </Values>
             </Asset>
         </ModOp>
@@ -168,7 +175,7 @@
                     </MaintenanceUpgrade>
                     <PierUpgrade>
                         <PierSpeedUpgrade>
-                            <Value>100</Value>
+                            <Value>400</Value>
                             <Percental>1</Percental>
                         </PierSpeedUpgrade>
                     </PierUpgrade>
