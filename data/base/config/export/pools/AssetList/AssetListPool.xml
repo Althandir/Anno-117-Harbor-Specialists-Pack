@@ -14,9 +14,7 @@
         <ItemLink>1600000697</ItemLink>
     </Item>
     <!-- Epic -->
-    <Item>
-        <ItemLink>1600000128</ItemLink>
-    </Item>
+
     <!-- Legendary -->
     <Item>
         <ItemLink>1600000707</ItemLink>
@@ -30,6 +28,9 @@
     <!-- Rare -->
     <Item>
         <ItemLink>1600000226</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000128</ItemLink>
     </Item>
     </ModOp>
 </Group>
