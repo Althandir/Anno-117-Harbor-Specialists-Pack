@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000128</GUID>
                 <Name>Specialist RepairPierKontor-Mixed-R</Name>
-                <IconFilename>data/base/graphics/icons/male_CraneEnjoyer.png</IconFilename>
+                <IconFilename>data/base/graphics/icons/Harbor-Pack/male_CraneEnjoyer.png</IconFilename>
                 <InfoDescription>1600000129</InfoDescription>
             </Standard>
             <Effect>
@@ -58,7 +58,7 @@
                     <Standard>
                         <GUID>1600000129</GUID>
                         <Name>Specialist RepairPierKontor-Mixed-R BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/male_CraneEnjoyer.png</IconFilename>
+                        <IconFilename>data/base/graphics/icons/Harbor-Pack/male_CraneEnjoyer.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000128</OasisId>
