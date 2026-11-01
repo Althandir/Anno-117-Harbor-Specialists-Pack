@@ -29,11 +29,12 @@
 <!-- Rare Specialists -->
 <Group>
     <Include File="items-rare/Shipyard-Speed-R.xml" />
+    <Include File="items-rare/RepairPierKontor-Mixed-R.xml" />  
 </Group>
 
 <!-- Epic Specialists -->
 <Group>
-    <Include File="items-epic/RepairPierKontor-Mixed-E.xml" />  
+    
 </Group>
 
 <!-- Legendary Specialists -->

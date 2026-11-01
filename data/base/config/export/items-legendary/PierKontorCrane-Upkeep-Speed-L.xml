@@ -8,11 +8,11 @@
             <Standard>
                 <GUID>1600000707</GUID>
                 <Name>Specialist PierKontorCrane-Upkeep-Speed-L</Name>
-                <IconFilename>data/base/graphics/icons/m_PierKontorCrane-Upkeep-Speed-L.png</IconFilename>
+                <IconFilename>data/base/graphics/icons/Harbor-Pack/m_PierKontorCrane-Upkeep-Speed-L.png</IconFilename>
                 <InfoDescription>1600000708</InfoDescription>
             </Standard>
             <Effect>
-                <EffectScope>Radius</EffectScope> 
+                <EffectScope>ObjectsInArea</EffectScope>
                 <SourceCategory>Item</SourceCategory>
                 <Buffs>
                     <Item>
@@ -33,6 +33,7 @@
                         <GUID>38552</GUID>
                     </Item>
                 </Targets>
+                <HideInGovernorsBar>1</HideInGovernorsBar>
             </Effect>
             <Item>
                 <Niche>Nautics</Niche> 
@@ -108,7 +109,7 @@
                     <Standard>
                         <GUID>1600000708</GUID>
                         <Name>Specialist PierKontorCrane-Upkeep-Speed-L DefenseBuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/m_PierKontorCrane-Upkeep-Speed-L.png</IconFilename>
+                        <IconFilename>data/base/graphics/icons/Harbor-Pack/m_PierKontorCrane-Upkeep-Speed-L.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000707</OasisId>
@@ -118,14 +119,20 @@
                     </Buff>
                     <MaintenanceUpgrade>
                         <MaintenanceFactorUpgrade>
-                            <Value>-75</Value>
+                            <Value>-50</Value>
                             <Percental>1</Percental>
                         </MaintenanceFactorUpgrade>
                         <WorkforceMaintenanceFactorUpgrade>
-                            <Value>-75</Value>
+                            <Value>-50</Value>
                             <Percental>1</Percental>
                         </WorkforceMaintenanceFactorUpgrade>
                     </MaintenanceUpgrade>
+                    <PierUpgrade>
+                        <PierSpeedUpgrade>
+                            <Value>50</Value>
+                            <Percental>1</Percental>
+                        </PierSpeedUpgrade>
+                    </PierUpgrade>
                 </Values>
             </Asset>
         </ModOp>
@@ -138,7 +145,7 @@
                     <Standard>
                         <GUID>1600000709</GUID>
                         <Name>Specialist PierKontorCrane-Upkeep-Speed-L Boosted DefenseBuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/m_PierKontorCrane-Upkeep-Speed-L.png</IconFilename>
+                        <IconFilename>data/base/graphics/icons/Harbor-Pack/m_PierKontorCrane-Upkeep-Speed-L.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000707</OasisId>
@@ -168,7 +175,7 @@
                     </MaintenanceUpgrade>
                     <PierUpgrade>
                         <PierSpeedUpgrade>
-                            <Value>50</Value>
+                            <Value>400</Value>
                             <Percental>1</Percental>
                         </PierSpeedUpgrade>
                     </PierUpgrade>
