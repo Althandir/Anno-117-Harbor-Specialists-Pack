@@ -39,7 +39,7 @@
 
 <!-- Legendary Specialists -->
 <Group>
-    <Include File="items-legendary/PierKontorCrane-Upkeep-Speed-L.xml" />
+    <Include File="items-legendary/PierKontorCrane-Refuge-L.xml" />
     <Include File="items-legendary/Repair-All-L.xml" />
     <Include File="items-legendary/Shipyard-Speed-NCosts-L.xml" />
 </Group>

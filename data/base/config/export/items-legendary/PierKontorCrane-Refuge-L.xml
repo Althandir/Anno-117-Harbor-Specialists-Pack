@@ -7,8 +7,8 @@
             <Values>
             <Standard>
                 <GUID>1600000707</GUID>
-                <Name>Specialist PierKontorCrane-Upkeep-Speed-L</Name>
-                <IconFilename>data/base/graphics/icons/Harbor-Pack/m_PierKontorCrane-Upkeep-Speed-L.png</IconFilename>
+                <Name>Specialist PierKontorCrane-Refuge-L</Name>
+                <IconFilename>data/base/graphics/icons/Harbor-Pack/PierKontorCrane-Refuge-L.png</IconFilename>
                 <InfoDescription>1600000708</InfoDescription>
             </Standard>
             <Effect>
@@ -108,8 +108,8 @@
                 <Values>
                     <Standard>
                         <GUID>1600000708</GUID>
-                        <Name>Specialist PierKontorCrane-Upkeep-Speed-L DefenseBuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/Harbor-Pack/m_PierKontorCrane-Upkeep-Speed-L.png</IconFilename>
+                        <Name>Specialist PierKontorCrane-Refuge-L DefenseBuildingBuff</Name>
+                        <IconFilename>data/base/graphics/icons/Harbor-Pack/PierKontorCrane-Refuge-L.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000707</OasisId>
@@ -144,8 +144,8 @@
                 <Values>
                     <Standard>
                         <GUID>1600000709</GUID>
-                        <Name>Specialist PierKontorCrane-Upkeep-Speed-L Boosted DefenseBuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/Harbor-Pack/m_PierKontorCrane-Upkeep-Speed-L.png</IconFilename>
+                        <Name>Specialist PierKontorCrane-Refuge-L Boosted DefenseBuildingBuff</Name>
+                        <IconFilename>data/base/graphics/icons/Harbor-Pack/PierKontorCrane-Refuge-L.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000707</OasisId>
