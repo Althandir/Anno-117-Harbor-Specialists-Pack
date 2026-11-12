@@ -74,7 +74,7 @@
                     </RepairCraneUpgrade>
                     <PierUpgrade>
                         <PierSpeedUpgrade>
-                            <Value>100</Value>
+                            <Value>50</Value>
                             <Percental>1</Percental>
                         </PierSpeedUpgrade>
                     </PierUpgrade>
