@@ -65,7 +65,7 @@
                     </Buff>
                     <PierUpgrade>
                         <PierSpeedUpgrade>
-                            <Value>40</Value>
+                            <Value>30</Value>
                             <Percental>1</Percental>
                         </PierSpeedUpgrade>
                     </PierUpgrade>
